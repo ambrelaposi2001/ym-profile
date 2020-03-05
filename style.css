@@ -1,0 +1,83 @@
+body {
+    background-image: url(image/Plages-paradisiaques-et-si-on-revait-un-peu.jpg)
+
+}
+
+
+
+h1{
+    color:  slateblue;
+    font-size: 70px;
+    text-align: center;
+    
+}
+#ambre {
+height: 300px;
+width: 300px;
+border-radius: 175px;
+padding: 30px;
+}
+
+#div1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(166, 226, 220);
+    padding: 50px;
+    margin: 30px auto;
+border-radius: 8px;
+width: 600px;
+height: 700px;
+
+}
+
+#facebook  {
+    height: 100px;
+    width: 100px;
+    margin: 40px;
+    opacity: 1;
+}
+
+#facebook :hover {
+    opacity: 0.3;
+}
+
+#div2 {
+    background-color: rgb(166, 226, 220);
+    padding: 50px;
+    margin: 30px auto;
+    width: 500px;
+    height: 400;
+text-align: center;
+align-items: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: slateblue;
+}
+
+#div3 {
+    background-color: rgb(166, 226, 220);
+    padding: 50px;
+    margin: 30px auto;
+    width: 500px;
+    height: 400;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Gymnastic {
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    text-size-adjust: 15px;}
+
+
+#travel {
+    height: 150px;
+    width: 130px;
+
+}
